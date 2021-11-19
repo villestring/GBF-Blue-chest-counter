@@ -1,4 +1,12 @@
 # Cached files #
 ################
 *.pyc
+# Temp files   #
+################
 idea.txt
+# Built files  #
+################
+*.zip
+*.tar
+*.rar
+*.7z

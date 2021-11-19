@@ -75,7 +75,7 @@ class boss:
 		self.count_label['text'] = self.paint()
 
 	def paint(self):
-		return self.total+'('+self.cur+')'
+		return 'Total(Cur)\n'+self.total+'('+self.cur+')'
 
 	# write new information onto the file
 	def update(self):
