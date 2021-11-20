@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/villestring/GBF-Blue-chest-counter/img/GoldBrick.ico)
+![Header](img/GoldBrick.ico)
 ## Discription/介绍/紹介
 Small application to help record the drops while gold-hunting in GBF: Akasha, Grand Order, Proto Bahamut.
 帮助记录GBF猎金掉落的小程序。支持阿卡夏、大公、大巴。
@@ -12,7 +12,7 @@ Click the 'Reset' button if you want to restart the current counting. (eg. maybe
 左ボタンで増え、右ボタンで減らす。全部(現在)のフォーマットで各ドロップを記録します。'Reset'ボッチに現在の記録をリセットします（例えヒヒドロップしました）
 
 ## Screenshots/截图/スクリーンショット
-![Preview 1](https://raw.githubusercontent.com/villestring/GBF-Blue-chest-counter/img/screenshot/akashaPage.png)
+![Preview 1](img/screenshot/akashaPage.png)
 
 ## Installation/安装/インストール
 [GitHub release](https://github.com/villestring/GBF-Blue-chest-counter/releases)
