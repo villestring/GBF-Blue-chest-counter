@@ -1,4 +1,4 @@
-![Header](img/GoldBrick.ico)
+![Header](img/GoldBrick.ico) ![](img/GoldBrick.ico) ![](img/GoldBrick.ico) ![](img/GoldBrick.ico) ![](img/GoldBrick.ico) ![](img/GoldBrick.ico)
 ## Discription/介绍/紹介
 Small application to help record the drops while gold-hunting in GBF: Akasha, Grand Order, Proto Bahamut.
 
