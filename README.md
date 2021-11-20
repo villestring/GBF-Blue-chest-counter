@@ -12,7 +12,7 @@ Click the 'Reset' button if you want to restart the current counting. (eg. maybe
 左ボタンで増え、右ボタンで減らす。全部(現在)のフォーマットで各ドロップを記録します。'Reset'ボッチに現在の記録をリセットします（例えヒヒドロップしました）
 
 ## Screenshots/截图/スクリーンショット
-![Preview 1](img/screenshot/akashaPage.png)
+![Preview 1](img/screenshot/akashaPage.png | width=200)
 
 ## Installation/安装/インストール
 [GitHub release](https://github.com/villestring/GBF-Blue-chest-counter/releases)
