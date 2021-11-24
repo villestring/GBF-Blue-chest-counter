@@ -19,4 +19,5 @@ Click the 'Reset' button if you want to restart the current counting. (eg. maybe
 ![Preview 1](img/screenshot/akashaPage.png)
 
 ## Installation/安装/インストール
+Please install Python3 first. Using the library PIL and tkinter
 [GitHub release](https://github.com/villestring/GBF-Blue-chest-counter/releases)
