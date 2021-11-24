@@ -47,7 +47,7 @@ class drop:
 		self.raid_boss.count_label['text'] = self.raid_boss.paint()
 
 	def paint(self):
-		return self.total_count+'('+self.cur_count+')'
+		return self.cur_count+'('+self.total_count+')'
 
 	def decrement(self, event=None):
 		if self.cur_count == '0' or self.total_count == '0':
