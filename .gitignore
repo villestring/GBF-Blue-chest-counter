@@ -3,10 +3,11 @@
 *.pyc
 # Temp files   #
 ################
-idea.txt
+*.txt
 # Built files  #
 ################
 *.zip
 *.tar
 *.rar
 *.7z
+*.exe
