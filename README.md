@@ -8,12 +8,12 @@ Small application to help record the drops while gold-hunting in GBF: Akasha, Gr
 
 ## How to use/使用说明/使用說明
 Left click on the item icon to increase counting, right click to decrease.
-Format of 'Total(Current)'' to represent total drops and current streak, respectively
+Format of 'Current(Total)'' to represent total drops and current streak, respectively
 Click the 'Reset' button if you want to restart the current counting. (eg. maybe when you dropped a gold)
 
-左键增加，右键减少。累积(当前)的格式来记录各个物品的掉落情况。点击'Reset'按钮来重置当前记录（没准你想出金后重新记录）
+左键增加，右键减少。当前(累积)的格式来记录各个物品的掉落情况。点击'Reset'按钮来重置当前记录（没准你想出金后重新记录）
 
-左ボタンで増え、右ボタンで減らす。全部(現在)のフォーマットで各ドロップを記録します。'Reset'ボッチに現在の記録をリセットします（例えヒヒドロップしました）
+左ボタンで増え、右ボタンで減らす。現在(全部)のフォーマットで各ドロップを記録します。'Reset'ボッチに現在の記録をリセットします（例えヒヒドロップしました）
 
 ## Screenshots/截图/スクリーンショット
 ![Preview 1](img/screenshot/akashaPage.png)
